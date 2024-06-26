@@ -15,3 +15,15 @@ aside{
     flex: 1;
     overflow-y: auto;
 }
+header{
+    background-color: aquamarine;
+}
+header ul li{
+    float: left;
+}
+body{
+background-color: beige;
+}
+footer{
+    background-color:#d6f6f5;
+}
